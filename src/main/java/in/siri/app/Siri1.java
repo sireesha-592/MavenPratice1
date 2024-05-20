@@ -15,4 +15,7 @@ public class Siri1 {
     	   this.lname = lname;
     	   this.mobileNo = mobileNo;
     	   }
+       public void m1() {
+    	  //logic 
+       }
 }
